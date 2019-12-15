@@ -26,5 +26,5 @@ hs_err_pid*
 # Ignore files
 out
 target
-.iml
+*.iml
 .idea
